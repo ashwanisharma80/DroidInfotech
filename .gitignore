@@ -35,3 +35,6 @@ UserInterfaceState.xcuserstate
 /nbproject/*
 /vendor/*
 composer.lock
+/var/cache/*
+/var/logs/*
+/var/sessions/*
