@@ -1,0 +1,4 @@
+services:
+#    droid_infotech_erp_inventory.example:
+#        class: DroidInfotechERP\InventoryBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

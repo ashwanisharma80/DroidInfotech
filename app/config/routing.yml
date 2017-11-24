@@ -1,0 +1,8 @@
+droid_infotech_erp_inventory:
+    resource: "@DroidInfotechERPInventoryBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
